@@ -1,3 +1,5 @@
+# DEPRECATED: CMake 3.16 adds support for precompiled-headers making this useless.
+
 # CMake Precompiled Headers
 
 This cmake tool allows you to easily use Precompiled Headers for C++ projects. It's a simple solution to an annoyingly complicated problem
